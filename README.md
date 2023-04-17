@@ -1,5 +1,7 @@
 # Frontend Mentor - Intro component with sign up form
 
+Demo: https://idyllic-kheer-5ad9e5.netlify.app/
+
 ![Design preview for the Intro component with sign up form coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
